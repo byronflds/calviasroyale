@@ -1,0 +1,122 @@
+
+.jumbotron {
+	background-color: #FFFFFF;
+}
+
+
+#nav {
+	text-align: center;
+
+}
+
+#nav li  {
+
+
+display: inline;
+
+
+}
+
+#nav a {
+	text-decoration: none;
+	color: black;
+}
+
+#navBarImage {
+
+	height: calc(25vh - 56px);
+	background-image: url("https://icecube-us-301.icedrive.io/thumbnail?p=ANLjWkoXBUKuWH5Fc.x.U_iKlGUMDFhzT5YCFt3XtMHujhlR3qjQLa6jJESk6gLo_2MVmIMZu8SMjzKCCMJypWJjIueBzPUfljoMuTeVKtLgvTAHvNnEiQj9Tev8ouoq&w=1024&h=1024&m=cropped");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+
+}
+
+
+#instabuttonimage {
+	background-image: url("https://icecube-us-301.icedrive.io/download?p=bdXL8h4idmNgw_2FQcSzTT.VDqFRYLU.bnKVP3S3IPx1NN0.qpDfgGM5Q.rhtFlXXWTQ_Ojy2P4Ex4e8qZo5Qcac3tJCnjj2hSpYFaexLELhNH7zPicdh2Hglpp5_1U3u8bm_hW0Io_xRCuSHlXYy1NAesOVTPFmQHgSARm7rB3JUx4DNJaVTj2Mnru34XeHsF7nzf51SxYIDtmidBSW7g--");
+}
+
+
+.footer {
+
+	display: inline-block;
+}
+ 
+.fa-instagram {
+
+color: transparent;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+
+.navbar-nav {
+float: none;
+margin: 0 auto;
+text-align: center;
+
+}
+
+div .container {
+
+  position: relative;
+  padding-top: 10em;
+  padding-bottom: 10em;
+
+}
+
+ #navBarImage {
+
+	text-align: center;
+	font-size: 50px;
+	color: #FFC633;
+	font-family: Copperplate, "Lucida Console", Arial;
+margin-bottom: 40px;
+	padding-top: 0px;
+	padding-bottom: 645px;
+
+}
+
+p {
+	margin: 0px 0px 0px 0px;
+}
+
+.container #carouselSlides {
+
+margin-bottom: 57px;
+}
+
+.container #ourServices {
+
+	margin-bottom: 47px;
+}
+
+.container #aboutUs {
+	margin-top: 0px;
+	margin-bottom: 47px;
+}
+
+.container #reachUS{
+	margin-bottom: 20px;
+	padding-bottom: 67px;
+
+}
+
+.footer {
+	position: relative;
+	float: right;
+	left: 22px;
+	bottom: 0px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+
